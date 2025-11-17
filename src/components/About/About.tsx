@@ -39,8 +39,8 @@ export function About() {
         <ScrollAnimation animateIn="fadeInLeft" delay={400}>
           <div className="education">
             <h3>Education:</h3>
-            <h4> Master of Computer Applications (MCA)</h4>
-            <p>Vellore Institute of Technology, Chennai | July 2023 - Present</p>
+            <h4> Bachelor of Science in Information Technology (BscIT)</h4>
+            <p>Muranga University of Technology, Muranga | Nov 2023 - Present</p>
             <p>8.09 CGPA</p>
           </div>
         </ScrollAnimation>
@@ -48,7 +48,7 @@ export function About() {
           <div className="experience">
              <h3>Experience:</h3><h4>Software Developer</h4>
             <p>KIWIS AND BROWNIES IT SOLUTIONS | October 2024 - Present</p>
-            <p>Bangalore, India</p>
+            <p>Nairobi Kenya</p>
           </div>
         </ScrollAnimation>
 
