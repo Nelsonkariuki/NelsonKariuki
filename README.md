@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Nelson Kariuki
 
-<img src ="https://github.com/Nelsonkariuki/NelsonKariuki/blob/main/Nelsonkariuki.png" alt="Nelson Kariuki Banner" />
-
 ## 🚀 About Me
 
 I'm a **Full-Stack Software Engineer** with a passion for building end-to-end solutions that make an impact. With over 4 years of experience, I've mastered the art of crafting robust backend systems, intuitive front-end interfaces, and seamless mobile experiences. My expertise spans **web development**, **mobile development**, **machine learning**, and **cybersecurity** — because I believe a great engineer should understand the full stack and beyond.
