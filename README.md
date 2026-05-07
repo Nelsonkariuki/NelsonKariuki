@@ -96,7 +96,7 @@ This diverse skill set allows me to approach problems from multiple angles and d
 
 I'm always open to new opportunities, collaborations, or just a good tech conversation. Reach out to me through any of these platforms:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nelson-kariuki-229801197/)
+- 💼 [LinkedIn](www.linkedin.com/in/nelson-kariuki-229801197)
 - 🐙 [GitHub](https://github.com/Nelsonkariuki)
 - 💬 [WhatsApp](https://wa.me/+254714877212)
 - ✈️ [Telegram](https://t.me/programmer@009)
