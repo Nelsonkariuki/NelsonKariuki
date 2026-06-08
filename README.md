@@ -8,7 +8,7 @@ I thrive on solving complex problems, optimizing performance, and writing clean,
 
 When I'm not coding, you'll find me diving into **CTF challenges** or hunting bugs through bounty programs — because security isn't just an add-on, it's a mindset.
 
----
+
 
 ## 🛠️ Tech Stack & Proficiency
 
@@ -45,7 +45,7 @@ When I'm not coding, you'll find me diving into **CTF challenges** or hunting bu
 - **Cloud** — AWS, Firebase
 - **CI/CD** — GitHub Actions
 
----
+
 
 ## 💼 What I Do
 
@@ -56,13 +56,13 @@ When I'm not coding, you'll find me diving into **CTF challenges** or hunting bu
 - **Machine Learning** — Integrating AI features into real-world applications
 - **Cybersecurity** — Securing applications and participating in ethical hacking challenges
 
----
+
 
 ## 🧠 My Philosophy
 
 I'm a **full-stack engineer** in the truest sense — I don't just work across the stack, I understand how each layer connects and interacts. I believe in writing code that's not only functional but also scalable, secure, and maintainable. Every project is an opportunity to learn something new and push the boundaries of what's possible.
 
----
+
 
 ## 🎓 Education & Background
 
@@ -75,7 +75,7 @@ I come from a strong software engineering foundation with expertise in:
 
 This diverse skill set allows me to approach problems from multiple angles and deliver comprehensive solutions.
 
----
+
 
 ## 📊 Languages & Technologies I Work With
 
@@ -90,7 +90,7 @@ This diverse skill set allows me to approach problems from multiple angles and d
 | **DevOps** | Docker, Git, AWS, CI/CD |
 | **Security** | Penetration testing, OWASP, Encryption |
 
----
+
 
 ## 🌍 Let's Connect
 
